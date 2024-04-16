@@ -11,8 +11,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/replit/replit-original.svg" title="Fastapi" alt="Fastapi" width="40" height="40"/>&nbsp;
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Solrikk&theme=merko&hide_border=true)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Solrikk&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 <!--
