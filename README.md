@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-### :fire: My Stats:
+ **_:fire: My Stats:_**
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Solrikk&theme=light)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Solrikk&layout=compact&theme=light)](https://github.com/anuraghazra/github-readme-stats)
 
