@@ -5,8 +5,8 @@
 
  **_:fire: My Stats:_**
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Solrikk&theme=default)
- ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Solrikk&theme=default) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Solrikk&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Solrikk&theme=vue)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Solrikk&theme=vue) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Solrikk&theme=vue)
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="Fastapi" alt="Fastapi" width="40" height="40"/>&nbsp;
