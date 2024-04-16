@@ -19,6 +19,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="Fastapi" alt="Fastapi" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="Fastapi" alt="Fastapi" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Fastapi" alt="Fastapi" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" title="Fastapi" alt="Fastapi" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/yaml/yaml-original.svg" title="Fastapi" alt="Fastapi" width="40" height="40"/>&nbsp;
 
 
 </div>
