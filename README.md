@@ -3,7 +3,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Solrikk&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+### :fire: My Stats:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Solrikk&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Solrikk&hide_border=true)](https://git.io/streak-stats)
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -12,8 +14,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="Fastapi" alt="Fastapi" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/replit/replit-original.svg" title="Fastapi" alt="Fastapi" width="40" height="40"/>&nbsp;
 
-### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Solrikk&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 <!--
