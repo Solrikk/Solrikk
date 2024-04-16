@@ -24,8 +24,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/yaml/yaml-original.svg" title="yaml" alt="yaml" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
 
-##
-[![trophy](https://github-profile-trophy.vercel.app/?username=Solrikk)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 <!--
