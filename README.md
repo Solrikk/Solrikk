@@ -13,6 +13,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Fastapi" alt="Fastapi" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="Fastapi" alt="Fastapi" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/replit/replit-original.svg" title="Fastapi" alt="Fastapi" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Fastapi" alt="Fastapi" width="45" height="40"/>&nbsp;
 
 
 </div>
