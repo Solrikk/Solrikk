@@ -7,15 +7,15 @@
 
 <div align="center">
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Solrikk&layout=donut-vertical">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Solrikk&layout=donut-vertical" />
+    <img height="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Solrikk&layout=donut-vertical" />
   </a>
   <a href="https://github-readme-stats.vercel.app/api?username=Solrikk">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Solrikk" />
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Solrikk" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github-readme-streak-stats.herokuapp.com/?user=Solrikk">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Solrikk" />
+    <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=Solrikk" />
   </a>
 </div>
