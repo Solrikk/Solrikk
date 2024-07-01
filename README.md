@@ -25,9 +25,9 @@
 **🧑‍💼 About Me:**
 
 - 🔭 I’m currently working on various **Python** and **C++** projects
-- 🌱 I’m currently learning more about **Machine Learning** and **Data Structures**
+- 🌱 I’m currently learning more about **Machine Learning**, **Deep Learning**, and **Computer Vision**
 - 👯 I’m looking to collaborate on interesting open-source projects
-- 💬 Ask me about **Web Development**, **Algorithms**, and **Problem-solving**
+- 💬 Ask me about **Web Development**, **Algorithms**, **Microservices**, **Image Processing**, and **Data Analysis**
 - 📫 How to reach me: [reveni324@gmail.com](mailto:reveni324@gmail.com)
 
 **🔥 My Stats:**
