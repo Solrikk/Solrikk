@@ -9,9 +9,6 @@
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Solrikk&layout=donut-vertical">
     <img height="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Solrikk&layout=donut-vertical" />
   </a>
-  <a href="https://github-readme-stats.vercel.app/api?username=Solrikk">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Solrikk" />
-  </a>
 </div>
 
 <div align="center">
