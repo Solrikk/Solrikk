@@ -1,12 +1,10 @@
 <h1>
-  Hi there, i am Sviatoslav König 
+  Hi there, I am Sviatoslav König 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
- **_:fire: My Stats:_**
+**🔥 My Stats:**
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Solrikk&theme=gruvbox)
- ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Solrikk&theme=gruvbox) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Solrikk&theme=gruvbox)
-
-![](https://komarev.com/ghpvc/?username=Solrikk&color=green)
-<div>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Solrikk&layout=donut-vertical">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Solrikk&layout=donut-vertical" />
+</a>
