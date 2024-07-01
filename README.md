@@ -8,17 +8,17 @@
 </p>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/your-profile-link">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://vk.com/solrikker">
+    <img src="https://img.shields.io/badge/-VK-blue?style=flat-square&logo=vk&logoColor=white" alt="VK">
   </a>
-  <a href="https://twitter.com/your-profile-link">
-    <img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter">
+  <a href="https://t.me/SvKening">
+    <img src="https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=telegram&logoColor=white" alt="Telegram">
   </a>
-  <a href="https://github.com/Solrikk">
-    <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  <a href="https://career.habr.com/solrikk">
+    <img src="https://img.shields.io/badge/-Habr-black?style=flat-square&logo=habr&logoColor=white" alt="Habr">
   </a>
   <a href="mailto:reveni324@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:reveni324@gmail.com" alt="Email">
+    <img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:reveni324@gmail.com" alt="Gmail">
   </a>
 </div>
 
