@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20developer;Machine%20learning%20enthusiast;Always%20learning%20new%20things&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer%20Vision%20Expert;FinTech%20Developer;ML%2FCV%20Innovator&center=true&width=480&height=60">
 </p>
 
 <div align="center">
@@ -18,17 +18,26 @@
     <img src="https://img.shields.io/badge/-Habr-black?style=flat-square&logo=habr&logoColor=white" alt="Habr">
   </a>
   <a href="mailto:reveni324@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:reveni324@gmail.com" alt="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail">
   </a>
 </div>
 
 **🧑‍💼 About Me:**
 
-- 🔭 I’m currently working on various **Python** and **C++** projects
-- 🌱 I’m currently learning more about **Machine Learning**, **Deep Learning**, and **Computer Vision**
-- 👯 I’m looking to collaborate on interesting open-source projects
-- 💬 Ask me about **Web Development**, **Algorithms**, **Microservices**, **Image Processing**, and **Data Analysis**
+- 🔭 I’m currently working on various **Python** projects focused on **Computer Vision** and **Financial Technologies**
+- 🌱 I’m currently expanding my knowledge in **Machine Learning**, **Deep Learning**, and **Computer Vision**
+- 👯 I’m looking to collaborate on innovative open-source projects in **AI** and **FinTech**
+- 💬 Ask me about **Neural Networks**, **Data Analysis**, **Automated Trading Systems**, **Speech Recognition**, and **Robotic Systems**
 - 📫 How to reach me: [reveni324@gmail.com](mailto:reveni324@gmail.com)
+
+**🔥 My Expertise:**
+
+- 📈 Developing and implementing neural networks in industrial projects
+- 🖼️ Image recognition and computer vision solutions
+- 🎤 Audio signal processing and speech recognition
+- 📊 Predictive analytics and data analysis
+- 🤖 Prototyping robotic systems with integrated CV and Speech technologies
+- 💼 Automating financial processes and trading systems
 
 **🔥 My Stats:**
 
