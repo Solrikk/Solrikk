@@ -14,7 +14,7 @@
   <a href="https://t.me/SvKening">
     <img src="https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=telegram&logoColor=white" alt="Telegram">
   </a>
-  <a href="https://career.habr.com/solrikk">
+  <a href="https://habr.com/ru/users/Solrikk">
     <img src="https://img.shields.io/badge/-Habr-black?style=flat-square&logo=habr&logoColor=white" alt="Habr">
   </a>
   <a href="mailto:reveni324@gmail.com">
