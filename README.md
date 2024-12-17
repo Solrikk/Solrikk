@@ -30,15 +30,6 @@
 - 💬 Ask me about **Neural Networks**, **Data Analysis**, **Automated Trading Systems**, **Speech Recognition**, and **Robotic Systems**
 - 📫 How to reach me: [reveni324@gmail.com](mailto:reveni324@gmail.com)
 
-**🔥 My Expertise:**
-
-- 📈 Developing and implementing neural networks in industrial projects
-- 🖼️ Image recognition and computer vision solutions
-- 🎤 Audio signal processing and speech recognition
-- 📊 Predictive analytics and data analysis
-- 🤖 Prototyping robotic systems with integrated CV and Speech technologies
-- 💼 Automating financial processes and trading systems
-
 **🔥 My Stats:**
 
 <div align="center">
