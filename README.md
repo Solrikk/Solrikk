@@ -1,7 +1,7 @@
-<a href="https://t.me/SvKening">
+<div>
+  <a href="https://t.me/SvKening">
     <img src="https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=telegram&logoColor=white" alt="Telegram">
   </a>
-  <a href="https://career.habr.com/solrikk">
   <a href="https://habr.com/ru/users/Solrikk">
     <img src="https://img.shields.io/badge/-Habr-black?style=flat-square&logo=habr&logoColor=white" alt="Habr">
   </a>
@@ -10,21 +10,21 @@
   </a>
 </div>
 
-**🧑‍💼 About Me:**
+**👨‍💻 About Me:**
 
-- 🔭 I’m currently working on various **Python** projects focused on **Computer Vision** and **Financial Technologies**
-- 🌱 I’m currently expanding my knowledge in **Machine Learning**, **Deep Learning**, and **Computer Vision**
-- 👯 I’m looking to collaborate on innovative open-source projects in **AI** and **FinTech**
-- 💬 Ask me about **Neural Networks**, **Data Analysis**, **Automated Trading Systems**, **Speech Recognition**, and **Robotic Systems**
+- 🚀 I’m currently working on various **Python** projects focused on **Computer Vision** and **Financial Technologies**
+- 📚 I’m expanding my knowledge in **Machine Learning**, **Deep Learning**, and **Computer Vision**
+- 🤝 I’m looking to collaborate on innovative open-source projects in **AI** and **FinTech**
+- 🗣️ Ask me about **Neural Networks**, **Data Analysis**, **Automated Trading Systems**, **Speech Recognition**, and **Robotic Systems**
 - 📫 How to reach me: [reveni324@gmail.com](mailto:reveni324@gmail.com)
 
-**🔥 My Stats:**
+**📊 My Stats:**
 
 <div align="center">
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Solrikk&layout=donut-vertical">
-    <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Solrikk&layout=donut-vertical" alt="Top Langs" />
+    <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Solrikk&layout=donut-vertical" alt="Top Languages">
   </a>
   <a href="https://github-readme-streak-stats.herokuapp.com/?user=Solrikk">
-    <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=Solrikk" alt="Streak Stats" />
+    <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=Solrikk" alt="Streak Stats">
   </a>
 </div>
