@@ -21,10 +21,10 @@
 **📊 My Stats:**
 
 <div align="center">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Solrikk&layout=donut-vertical">
-    <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Solrikk&layout=donut-vertical" alt="Top Languages">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Solrikk&layout=donut">
+    <img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Solrikk&layout=donut" alt="Top Languages">
   </a>
   <a href="https://github-readme-streak-stats.herokuapp.com/?user=Solrikk">
-    <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=Solrikk" alt="Streak Stats">
+    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Solrikk" alt="Streak Stats">
   </a>
 </div>
