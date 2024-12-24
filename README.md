@@ -22,7 +22,7 @@
 
 <div align="center">
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Solrikk&layout=donut">
-    <img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Solrikk&layout=donut" alt="Top Languages">
+    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Solrikk&layout=donut" alt="Top Languages">
   </a>
   <a href="https://github-readme-streak-stats.herokuapp.com/?user=Solrikk">
     <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Solrikk" alt="Streak Stats">
