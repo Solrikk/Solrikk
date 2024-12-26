@@ -11,6 +11,12 @@
   <a href="https://vk.com/straleglan">
     <img src="https://img.shields.io/badge/-VK-blue?style=flat-square&logo=vk&logoColor=white" alt="VK">
   </a>
+  <a href="https://www.youtube.com/@Solrikk-qr2oi">
+    <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+  <a href="https://x.com/Solrikk_01">
+    <img src="https://img.shields.io/badge/-X-1DA1F2?style=flat-square&logo=x&logoColor=white" alt="X">
+  </a>
 </div>
 
 **👨‍💻 About Me:**
