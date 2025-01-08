@@ -29,4 +29,4 @@
 
 **📈 My Stats:**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solrikk&langs_count=8)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solrikk&layout=donut-vertical)](https://github.com/solrikk/github-readme-stats)
