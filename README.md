@@ -19,15 +19,15 @@
   </a>
 </div>
 
-**👨‍💻 About Me:**
+**👓 About Me:**
 
-- 🚀 I’m currently working on various **Python** projects focused on **Computer Vision** and **Financial Technologies**
-- 📚 I’m expanding my knowledge in **Machine Learning**, **Deep Learning**, and **Computer Vision**
-- 🤝 I’m looking to collaborate on innovative open-source projects in **AI** and **FinTech**
-- 🗣️ Ask me about **Neural Networks**, **Data Analysis**, **Automated Trading Systems**, **Speech Recognition**, and **Robotic Systems**
+- 💡 I’m currently working on various **Python**, **C#**, and **C++** projects focused on **Computer Vision** and developing **Eye Prosthetics**
+- 📘 I’m expanding my knowledge in **Machine Learning**, **Deep Learning**, and **Computer Vision**
+- 🤝 I’m looking to collaborate on innovative open-source projects in **AI** and **Digital Vision**
+- ⏳ I might not respond quickly and can be busy
 - 📫 How to reach me: [reveni324@gmail.com](mailto:reveni324@gmail.com)
 
-**📊 My Stats:**
+**📈 My Stats:**
 
 <div align="center">
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Solrikk&layout=donut">
