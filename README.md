@@ -29,7 +29,4 @@
 
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solrikk&layout=compact&theme=tokyonight&hide_border=true"/>
 
-### 🌎 Visitors
-[![](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsolrikk&label=Visitors&labelColor=%23697689&countColor=%232ccce4)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fsolrikk)
-
 </div>
