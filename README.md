@@ -27,7 +27,6 @@
 
 ### 📊 GitHub Stats
 
-<img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=solrikk&theme=tokyonight&hide_border=true"/>
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solrikk&layout=compact&theme=tokyonight&hide_border=true"/>
 
 ### 🌎 Visitors
