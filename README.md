@@ -7,11 +7,8 @@
 [![Followers](https://img.shields.io/github/followers/solrikk?style=flat&color=blue)](https://github.com/solrikk)
 
 <div>
-  <a href="https://t.me/SvKening"><img height="25" src="https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white"/></a>
   <a href="https://habr.com/ru/users/Solrikk"><img height="25" src="https://img.shields.io/badge/-Habr-65A3BE?style=flat&logo=habr&logoColor=white"/></a>
   <a href="mailto:reveni324@gmail.com"><img height="25" src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@Solrikk-qr2oi"><img height="25" src="https://img.shields.io/badge/-YouTube-red?style=flat&logo=youtube&logoColor=white"/></a>
-  <a href="https://x.com/Solrikk_01"><img height="25" src="https://img.shields.io/badge/-X-black?style=flat&logo=x&logoColor=white"/></a>
 </div>
 
 ### 👨‍💻 About Me
