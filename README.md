@@ -6,11 +6,6 @@
 [![Views](https://komarev.com/ghpvc/?username=solrikk&color=blue&style=flat&label=Views)](https://github.com/solrikk)
 [![Followers](https://img.shields.io/github/followers/solrikk?style=flat&color=blue)](https://github.com/solrikk)
 
-<div>
-  <a href="https://habr.com/ru/users/Solrikk"><img height="25" src="https://img.shields.io/badge/-Habr-65A3BE?style=flat&logo=habr&logoColor=white"/></a>
-  <a href="mailto:reveni324@gmail.com"><img height="25" src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white"/></a>
-</div>
-
 ### 👨‍💻 About Me
 
 <img align="right" width="150" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
