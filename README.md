@@ -13,6 +13,7 @@
 
 - 🔭 Currently working on **Computer Vision** & **Eye Prosthetics** projects  
 - 🌱 Exploring **Machine Learning (ML)**, **Deep Learning (DL)**, and **Computer Vision**  
+- 🛡️ Also engaged in **Digital Security** projects  
 - 💻 Tech stack: **Python**, **C#**, **C++**  
 - 👯 Open to collaborate on **AI** & **Digital Vision** projects  
 - 📫 Reach me at: [reveni324@gmail.com](mailto:reveni324@gmail.com)
