@@ -11,12 +11,12 @@
 
 <img align="right" width="150" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Developer Gif"/>
 
-- 🔭 Currently working on **Computer Vision** & **Eye Prosthetics** projects  
-- 🌱 Exploring **Machine Learning (ML)**, **Deep Learning (DL)**, and **Computer Vision**  
-- 🛡️ Also engaged in **Digital Security** projects  
-- 💻 Tech stack: **Python**, **C#**, **C++**  
-- 👯 Open to collaborate on **AI** & **Digital Vision** projects  
-- 📫 Reach me at: [reveni324@gmail.com](mailto:reveni324@gmail.com)
+- 🔭 Currently working on **Computer Vision** & **Eye Prosthetics** projects, developing innovative solutions that bridge technology and human biology.
+- 🌱 Passionate about exploring cutting-edge techniques in **Machine Learning (ML)**, **Deep Learning (DL)**, and **Computer Vision** to tackle real-world challenges.
+- 🛡️ Actively engaged in **Digital Security** projects, focused on enhancing cybersecurity and protecting digital environments.
+- 💻 Skilled in various technologies including **Python**, **C++**, and **C#**. In **C#**, I specialize in creating engaging and interactive games.
+- 👯 Always open to collaborate on exciting projects in **AI**, **Digital Vision**, and **game development** that push the boundaries of innovation.
+- 📫 Feel free to reach me at: [reveni324@gmail.com](mailto:reveni324@gmail.com)
 
 ---
 
