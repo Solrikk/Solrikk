@@ -21,8 +21,4 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solrikk&layout=compact&theme=tokyonight&hide_border=true" alt="GitHub Top Languages"/>
-
 </div>
