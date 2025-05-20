@@ -37,12 +37,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solrikk&layout=compact&theme=dark" alt="Top Languages" />
 </div>
 
-## 🏆 Projects & Contributions
-
-- 🔒 **Security Tools**: Working on custom security tools and scripts
-- 🧰 **Linux Automation**: Developing automation solutions for Linux environments
-- 📚 **Knowledge Sharing**: Contributing to cybersecurity documentation and guides
-
 ## 🎓 Continuous Learning
 
 - 🔍 Exploring advanced incident handling methodologies
