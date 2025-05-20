@@ -7,8 +7,6 @@
 [![Followers](https://img.shields.io/github/followers/solrikk?style=flat&color=blue&label=Followers)](https://github.com/solrikk)
 [![Stars](https://img.shields.io/github/stars/solrikk?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Total+Stars)](https://github.com/solrikk)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=solrikk&theme=dark" alt="GitHub Streak Stats" />
-
 </div>
 
 ## 👨‍💻 About Me
