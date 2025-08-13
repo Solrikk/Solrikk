@@ -44,16 +44,6 @@
 - 🛡️ Studying threat intelligence and proactive defense mechanisms
 - 🖥️ Enhancing Linux system administration and hardening techniques
 
-## 🔗 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/solrikk)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reveni324@gmail.com)
-[![Steam](https://img.shields.io/badge/-Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198123896039/)
-
-</div>
-
 ---
 
 <div align="center">
