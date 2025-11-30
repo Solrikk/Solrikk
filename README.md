@@ -14,22 +14,14 @@
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Solrikk.png" alt="Your Image Badge" />
 
-- 🔭 **Passionate** about cybersecurity and Linux system administration
-- 🛡️ **Focused** on incident response and secure system design
-- 🌱 **Currently exploring** advanced Linux security fundamentals
-- 💡 **Always eager** to learn new technologies and share knowledge
-- 🛠️ **Enjoy** solving challenging technical problems and building secure systems
-- 🔍 **Interested** in penetration testing and vulnerability assessment
-- 📫 **Contact me**: [reveni324@gmail.com](mailto:reveni324@gmail.com)
+-  **Passionate** about cybersecurity and Linux system administration
+-  **Focused** on incident response and secure system design
+-  **Currently exploring** advanced Linux security fundamentals
+-  **Always eager** to learn new technologies and share knowledge
+-  **Enjoy** solving challenging technical problems and building secure systems
+-  **Interested** in penetration testing and vulnerability assessment
+-  **Contact me**: [reveni324@gmail.com](mailto:reveni324@gmail.com)
 
-## 🛠️ Skills & Technologies
-
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-276DC3?style=for-the-badge&logo=shield&logoColor=white)
-![Incident Response](https://img.shields.io/badge/-Incident_Response-E34F26?style=for-the-badge&logo=fire&logoColor=white)
-![Networking](https://img.shields.io/badge/-Networking-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
 
 ## 📊 GitHub Stats
 
