@@ -14,8 +14,6 @@
   <img src="https://tryhackme-badges.s3.amazonaws.com/Solrikker.png" alt="TryHackMe Profile Badge" />
 </p>
 
-### TryHackMe Badges
-
 <div align="center">
   <table>
     <tr>
