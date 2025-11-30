@@ -9,7 +9,61 @@
 </div>
 
 ## About Me
-<img src="https://tryhackme-badges.s3.amazonaws.com/Solrikker.png" alt="Your Image Badge" />
+
+<p align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Solrikker.png" alt="TryHackMe Profile Badge" />
+</p>
+
+### TryHackMe Badges
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://assets.tryhackme.com/room-badges/51fcd9a95acc4accc935768b489f0a42.png"
+             alt="TryHackMe Room Badge"
+             width="160" />
+      </td>
+      <td>
+        <img src="https://assets.tryhackme.com/room-badges/c109e3091a082c67b7021ccf9dda9545.png"
+             alt="TryHackMe Room Badge"
+             width="160" />
+      </td>
+      <td>
+        <img src="https://assets.tryhackme.com/room-badges/3bb856a661cc8cb482e8148d1cc2e5cf.png"
+             alt="TryHackMe Room Badge"
+             width="160" />
+      </td>
+      <td>
+        <img src="https://assets.tryhackme.com/room-badges/b4f46695a2379ee208c3a8af1f0d15fa.png"
+             alt="TryHackMe Room Badge"
+             width="160" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://assets.tryhackme.com/room-badges/e33218b6cb4f5fc5c4d4c2eae4b0096e.png"
+             alt="TryHackMe Room Badge"
+             width="160" />
+      </td>
+      <td>
+        <img src="https://assets.tryhackme.com/room-badges/234db8670587e2e0f56b42de2b1cf544.png"
+             alt="TryHackMe Room Badge"
+             width="160" />
+      </td>
+      <td>
+        <img src="https://assets.tryhackme.com/room-badges/d1ce5088ccbd715b22dff45fbad89a80.png"
+             alt="TryHackMe Room Badge"
+             width="160" />
+      </td>
+      <td>
+        <img src="https://assets.tryhackme.com/room-badges/992348ed49360e7f4dd140965beb0aff.png"
+             alt="TryHackMe Room Badge"
+             width="160" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 -  **Passionate** about cybersecurity and Linux system administration
 -  **Focused** on incident response and secure system design
