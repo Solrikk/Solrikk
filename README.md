@@ -9,10 +9,7 @@
 </div>
 
 ## About Me
-
-<img align="right" width="180" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Developer Gif"/>
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/Solrikk.png" alt="Your Image Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/Solrikker.png" alt="Your Image Badge" />
 
 -  **Passionate** about cybersecurity and Linux system administration
 -  **Focused** on incident response and secure system design
