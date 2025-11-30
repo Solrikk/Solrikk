@@ -22,14 +22,6 @@
 -  **Interested** in penetration testing and vulnerability assessment
 -  **Contact me**: [reveni324@gmail.com](mailto:reveni324@gmail.com)
 
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=solrikk&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solrikk&layout=compact&theme=dark" alt="Top Languages" />
-</div>
-
 ---
 
 <div align="center">
