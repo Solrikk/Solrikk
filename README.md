@@ -30,12 +30,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solrikk&layout=compact&theme=dark" alt="Top Languages" />
 </div>
 
-## Continuous Learning
-
--  Exploring advanced incident handling methodologies
--  Studying threat intelligence and proactive defense mechanisms
--  Enhancing Linux system administration and hardening techniques
-
 ---
 
 <div align="center">
