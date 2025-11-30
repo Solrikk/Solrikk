@@ -8,7 +8,7 @@
 
 </div>
 
-## 👨‍💻 About Me
+## About Me
 
 <img align="right" width="180" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Developer Gif"/>
 
@@ -23,18 +23,18 @@
 -  **Contact me**: [reveni324@gmail.com](mailto:reveni324@gmail.com)
 
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=solrikk&show_icons=true&theme=dark" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solrikk&layout=compact&theme=dark" alt="Top Languages" />
 </div>
 
-## 🎓 Continuous Learning
+## Continuous Learning
 
-- 🔍 Exploring advanced incident handling methodologies
-- 🛡️ Studying threat intelligence and proactive defense mechanisms
-- 🖥️ Enhancing Linux system administration and hardening techniques
+-  Exploring advanced incident handling methodologies
+-  Studying threat intelligence and proactive defense mechanisms
+-  Enhancing Linux system administration and hardening techniques
 
 ---
 
