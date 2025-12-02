@@ -11,7 +11,7 @@
 ## About Me
 
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Solrikker.png" alt="TryHackMe Profile Badge" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Solrikker.png" alt="Your Image Badge" />
 </p>
 
 <div align="center">
