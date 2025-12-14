@@ -6,9 +6,11 @@
 [![Followers](https://img.shields.io/github/followers/solrikk?style=flat&color=blue&label=Followers)](https://github.com/solrikk)
 [![Stars](https://img.shields.io/github/stars/solrikk?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Total+Stars)](https://github.com/solrikk)
 
-</div>
+[![Twitter](https://img.shields.io/badge/Twitter-@Solrikk-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/Solrikk)
+[![Medium](https://img.shields.io/badge/Medium-@reveni324-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@reveni324)
+[![Email](https://img.shields.io/badge/Email-reveni324@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:reveni324@gmail.com)
 
--  **Contact me**: [reveni324@gmail.com](mailto:reveni324@gmail.com)
+</div>
 
 ---
 
