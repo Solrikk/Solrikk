@@ -7,7 +7,7 @@
 [![Stars](https://img.shields.io/github/stars/solrikk?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Total+Stars)](https://github.com/solrikk)
 
 [![Twitter](https://img.shields.io/badge/Twitter-@Solrikk-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/Solrikk)
-[![Medium](https://img.shields.io/badge/Medium-@reveni324-12100E?style=flat&logo=medium&logoColor=white)](https://solrikk.medium.com/)
+[![Medium](https://img.shields.io/badge/Medium-@solrikk-12100E?style=flat&logo=medium&logoColor=white)](https://solrikk.medium.com/)
 [![Habr](https://img.shields.io/badge/Habr-Solrikk-65A3BE?style=flat&logo=habr&logoColor=white)](https://habr.com/ru/users/Solrikk/)
 [![Email](https://img.shields.io/badge/Email-reveni324@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:reveni324@gmail.com)
 
