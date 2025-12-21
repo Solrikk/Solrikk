@@ -11,8 +11,7 @@
 [![Habr](https://img.shields.io/badge/Habr-Solrikk-65A3BE?style=flat&logo=habr&logoColor=white)](https://habr.com/ru/users/Solrikk/)
 [![Email](https://img.shields.io/badge/Email-reveni324@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:reveni324@gmail.com)
 
-[![Boosty](https://img.shields.io/badge/☕_Buy_me_a_coffee-F15E2B?style=for-the-badge&logo=boosty&logoColor=white)](https://boosty.to/solrikk/donate)
-
+[![Monero](https://img.shields.io/badge/Donate_XMR-FF6600?style=for-the-badge&logo=monero&logoColor=white)](#-donate)
 
 </div>
 
