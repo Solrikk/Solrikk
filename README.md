@@ -13,6 +13,8 @@
 
 [![Monero](https://img.shields.io/badge/Donate_XMR-FF6600?style=for-the-badge&logo=monero&logoColor=white)](#donate)
 
+![XMR QR](https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=monero%3A88z7zKXVy6dEoTPBEdKtZFCR5Kkt1sb1W3Hpg3KkgQU8gWGqZCwEGgeNFETzkUvKSkAdic3eLjDz197jQ6ykZEpuBdmJ1ug)
+
 </div>
 
 ---
